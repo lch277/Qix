@@ -1,10 +1,9 @@
-##机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)
----
-#####注:机器学习资料[篇目一](https://github.com/ty4z2008/Qix/blob/master/dl.md)共500条,[篇目二](https://github.com/ty4z2008/Qix/blob/master/dl2.md)开始更新
----
----
-#####希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．此外:某些资料在中国访问需要梯子.
----
+## 机器学习(Machine Learning)&深度学习(Deep Learning)资料(Chapter 2)
+
+#### 注:机器学习资料[篇目一](https://github.com/ty4z2008/Qix/blob/master/dl.md)共500条,[篇目二](https://github.com/ty4z2008/Qix/blob/master/dl2.md)开始更新
+
+##### 希望转载的朋友，你可以不用联系我．但是**一定要保留原文链接**，因为这个项目还在继续也在不定期更新．希望看到文章的朋友能够学到更多．此外:某些资料在中国访问需要梯子.
+
 
 * [《Image Scaling using Deep Convolutional Neural Networks》](http://engineering.flipboard.com/2015/05/scaling-convnets/)
 
@@ -847,7 +846,7 @@
 
 * [《Deep learning Book》](http://www.deeplearningbook.org/)
 
-介绍:这是一本在线的深度学习书籍,合著者有Ian Goodfellow, Yoshua Bengio 和 Aaron Courville.如果你是一位新入门的学员可以先看这本书籍[Yoshua Bengio: How can one get started with machine learning?](https://www.quora.com/How-can-one-get-started-with-machine-learning-1)
+介绍:这是一本在线的深度学习书籍,合著者有Ian Goodfellow, Yoshua Bengio 和 Aaron Courville.如果你是一位新入门的学员可以先看这本书籍[Yoshua Bengio: How can one get started with machine learning?](https://www.quora.com/How-can-one-get-started-with-machine-learning-1).[中文译本](https://github.com/exacity/deeplearningbook-chinese)
 
 * [《UFLDL Recommended Readings》](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Recommended_Readings)
 
@@ -1125,10 +1124,6 @@
 
 介绍: 深度学习书籍推荐(毕竟这类书比较少).
 
-* [《Deep Learning Books》](http://machinelearningmastery.com/deep-learning-books/)
-
-介绍: 深度学习书籍推荐(毕竟这类书比较少).
-
 * [《Towards Bayesian Deep Learning: A Survey》](http://arxiv.org/abs/1604.01662)
 
 介绍: 贝叶斯定理在深度学习方面的研究论文.
@@ -1228,121 +1223,208 @@
 
 * [《probabilistic graphical models principles and techniques》](https://github.com/JimmyLin192/GraphicalModel/blob/master/Probabilistic%20Graphical%20Models%20Principles%20and%20Techniques.pdf)
 
-介绍: 此书是斯坦福大学概率图模型大牛Daphne Koller所写，主要涉及的是贝叶斯网络和马尔科夫逻辑网络的learning和inference问题，同时又对PGM有深刻的理论解释，是学习概率图模型必看的书籍。难度中上，适合有一些ML基础的研究生.[备份地址](https://vk.com/doc168073_304660839?hash=39a33dd8aa6b141d8a&dl=b667454bc650f66cc0)
+介绍: 此书是斯坦福大学概率图模型大牛Daphne Koller所写，主要涉及的是贝叶斯网络和马尔科夫逻辑网络的learning和inference问题，同时又对PGM有深刻的理论解释，是学习概率图模型必看的书籍。难度中上，适合有一些ML基础的研究生.[备份地址](https://vk.com/doc168073_304660839?hash=39a33dd8aa6b141d8a&dl=b6674
 
-* [《Information Theory, Inference, and Learning Algorithms》](http://www.inference.phy.cam.ac.uk/itprnn/book.html)
+* [《BigDL: Distributed Deep learning on Apache Spark》](https://github.com/intel-analytics/BigDL)
 
-介绍: 此书是剑桥大学著名信息论专家David MacKay所写，出发角度与很多机器学习的书籍都不一样，inference和MCMC那章写的最好，难度中。适合研究生和本科生。
+介绍: Spark分布式深度学习库BigDL
 
-* [《Convex Optimization – Boyd and Vandenberghe》](http://stanford.edu/~boyd/cvxbook/)
+* [《Machine Learning and Cyber Security Resources》](http://www.kdnuggets.com/2017/01/machine-learning-cyber-security.html)
 
-介绍: 非常好的Convex Optimization教材，覆盖了各种constrained和unconstrained optimization方法，介绍了convex优化的基本概念和理论。难度中，适合对优化和机器学习有一定基础的人群
+介绍: 这是一份关于机器学习和数据挖掘在网络安全方面应用的资源帖，包含了一些重要的站点，论文，书籍,斯坦福课程以及一些有用的教程.
 
-* [《Machine - Learning - Tom Mitchell》](http://personal.disco.unimib.it/Vanneschi/McGrawHill_-_Machine_Learning_-Tom_Mitchell.pdf)
+* [《6.S094: Deep Learning for Self-Driving Cars》](http://selfdrivingcars.mit.edu/)
 
-介绍: 本书是CMU机器学习系主任Mitchell早年写的机器学习教科书，年代有点久远.难度不高。适合初学者，本科生，研究生
+介绍: 麻省理工学院（MIT）开设课程.S094：自主驾驶汽车的深度学习
 
-* [《Learning with Kernels Support Vector Machines, Regularization, Optimization, and Beyond》](https://mitpress.mit.edu/books/learning-kernels)
+* [《ICML 2016 Conference and Workshops Video》](http://techtalks.tv/icml/2016/)
 
-介绍: 本书设计学习Kernel和SVM的各种理论基础，需要较强的数学功底，适合对kernel和SVM感兴趣的同学选读[Learning with Kernels PPT](http://dip.sun.ac.za/~hanno/tw796/lesings/mlss06au_scholkopf_lk.pdf)，参考[Learning with Kernels](https://www.cs.utah.edu/~piyush/teaching/learning-with-kernels.pdf)
+介绍: ICML 2016视频集锦
 
-* [《The Elements of Statistical Learning: Data Mining, Inference, and Prediction》](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
+* [《机器学习Machine-Learning》](https://github.com/JustFollowUs/Machine-Learning)
 
-介绍: 斯坦福统计系三位大神的统计学习教科书，偏统计和学习理论，需要对线性代数、统计和概率论有一定基础、难度高、适合研究生
+介绍: 机器学习推荐学习路线及参考资料
 
-* [《Data Mining: Practical Machine Learning Tools and Techniques》](http://www.cse.hcmut.edu.vn/~chauvtn/data_mining/Texts/%5B7%5D%20Data%20Mining%20-%20Practical%20Machine%20Learning%20Tools%20and%20Techniques%20(3rd%20Ed).pdf)
+* [《TensorFlow and deep learning, without a PhD》](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist)
 
-介绍: 本书是著名机器学习工具Weka作者撰写的应用机器学习指导书、非常实用、难度低、适合文科和各种应用科学做参考
+介绍:新手入门，通过TensorFlow入门深度学习
 
-* [《Foundations of Statistical Natural Language Processing》](http://nlp.stanford.edu/fsnlp/)
+* [《How To Get Into Natural Language Processing》](https://blog.ycombinator.com/how-to-get-into-natural-language-processing/)
 
-介绍: 本书也是一本比较受欢迎的NLP教科书，难度一般，主要覆盖统计NLP方法，是斯坦福的另一位大牛Chirs manning所写
+介绍: 自然语言处理(NLP)入门指南
 
-* [《Speech and Language Processing》](https://web.stanford.edu/~jurafsky/slp3/)
+* [《Deep learning and the Schrödinger equation》](https://arxiv.org/abs/1702.01361)
 
-介绍: 在北美NLP最常用的教材，斯坦福Jurafsky所写的自然语言处理入门教程，覆盖面较为全面，难度中低。适合本科生和研究生
+介绍:通过神经网络跳过数值方法求解薛定谔方程。
 
-* [《Natural Language Processing with Python - NLTK》](http://www.nltk.org/book/)
+* [《Recent Advances in Distributed Machine Learning》](http://www.dmtk.io/slides/distributedML-aaai2017.pdf)
 
-介绍: 实战型教程，著名工具NLTK作者的著作，适合本科生和入门者边动手边学
+介绍:微软亚洲研究院的刘铁岩等人近日在AAAI 2017上做的有关优化以及大规模机器学习的Tutorial。很值得一看。里面对传统的优化算法，特别是一些理论特性以及分布式算法的相应理论特性都有一个比较详尽的总结。非常适合想快速了解这些领域的学者和工程师。另外，这个Tutorial还介绍了DMTK的一些情况，作为一个分布式计算平台的优缺点，还顺带比较了Spark和TensorFlow等流行框架。
 
-* [《nlp compromise》](http://nlp-compromise.github.io/website/)
+* [《Deep Learning Implementations and Frameworks (DLIF)》](https://sites.google.com/site/dliftutorial/)
 
-介绍: 自然语言处理学习工具包，帮助你理解什么是自然语言处理
+介绍:AAAI 2017的Tutorial，专门讲述了深度学习框架的设计思想和实现，比较若干种流行框架（Caffe、MXNet、TensorFlow、Chainer等）的性能和异同。 
 
-* [《Multi-Way, Multilingual Neural Machine Translation with a Shared Attention Mechanism》](http://arxiv.org/abs/1601.01073)
+* [《Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters》](https://github.com/yahoo/TensorFlowOnSpark)
 
-介绍: 基于Attention共享机制的多通道/多语言感知机器翻译模型
+介绍:雅虎开源基于spark与TensorFlow的分布式数据深度学习框架,博文[介绍](https://yahooeng.tumblr.com/post/157196488076/open-sourcing-tensorflowonspark-distributed-deep)
 
-* [《CS229 - Machine Learning, Spring 2016, Stanford》](http://cs229.stanford.edu)
+* [《Deconstruction with Discrete Embeddings》](http://r2rt.com/deconstruction-with-discrete-embeddings.html)
 
-介绍: 斯坦福2016年机器学习春季课程
+介绍:用离散嵌入解构模糊数据
 
-* [《What is deep learning?》](https://www.quora.com/What-is-deep-learning)
+* [《Reliable Machine Learning in the Wild - NIPS 2016 Workshop》](https://sites.google.com/site/wildml2016nips/schedule)
 
-介绍: 我们深度学习，做数据处理。究竟深度学习可以用来做什么？什么场景下引入深度学习要必传统的数据处理方式要好？初学者可以先看看这篇文章
+介绍:视频发布：自然场景可靠机器学习(NIPS 2016 Workshop)
 
-* [《KDD16 accept papers》](http://www.kdd.org/kdd2016/program/accepted-papers)
+* [《A large-scale dataset of manually annotated audio events》](https://research.google.com/audioset/)
 
-介绍: KDD16论文是双轨制：分为研究和应用数据科学（之前叫工业&政府），均是10页。前者录取142篇（口头70+展报72），后者录取66篇（口头40+展报26） ，共计208篇。去年录取率：160/819=19.5%。
-高产作者：九篇Hui Xiong；七篇Jieping Ye；五篇Hengshu Zhu。高产机构：十篇Tsinghua University；九篇Carnegie Mellon University、Rutgers；八篇Stanford University。高频词：learning online networks［评论来自：学生古］
+介绍:Google发布大规模音频数据集
 
-* [《Medical Data for Machine Learning》](https://github.com/beamandrew/medical-data)
+* [《5 algorithms to train a neural network》](https://www.neuraldesigner.com/blog/5_algorithms_to_train_a_neural_network)
 
-介绍: 医疗数据
+介绍:训练神经网络的5种算法
 
-* [《Matlab Hacks》](http://www.socher.org/index.php/Main/MatlabHacks)
+* [《Course notes for CS224N Winter17》](https://github.com/stanfordnlp/cs224n-winter17-notes)
 
-介绍: Matlab小技巧
+介绍:笔记：斯坦福CS224n深度学习NLP课程(2017),课程地址[http://web.stanford.edu/class/cs224n/](http://web.stanford.edu/class/cs224n/).这个里面的[设计报告堪比国内博士论文](http://web.stanford.edu/class/cs224n/reports.html)
 
-* [《Fundamentals of TensorFlow》](https://www.hakkalabs.co/articles/fundamentals-tensorflow)
+* [《Persontyle Workshop for Applied Deep Learning》](https://github.com/telecombcn-dl/2017-persontyle)
 
-介绍: TensorFlow基本原理
+介绍:伦敦深度学习研讨会资料
 
-* [《A Course in Machine Learning》](http://ciml.info/)
+* [《Understanding, generalisation, and transfer learning in deep neural networks》](https://blog.acolyer.org/2017/02/27/understanding-generalisation-and-transfer-learning-in-deep-neural-networks/)
 
-介绍: 电子书，机器学习课程
+介绍:论文导读：深度神经网络理解、泛化与迁移学习,[acolyer blog](https://blog.acolyer.org/)上还有很多经典推荐可以阅读
 
-* [《ICML 2016 Tutorials》](http://icml.cc/2016/?page_id=97)
+* [《An Introduction to MCMC for Machine Learning》](http://www.cs.princeton.edu/courses/archive/spr06/cos598C/papers/AndrieuFreitasDoucetJordan2003.pdf)
 
-介绍: 国际机器学习会议PPT提供下载
+介绍:面向机器学习的马尔科夫链蒙特卡洛(MCMC)
 
-* [《TensorFlow: A system for large-scale machine learning》](http://arxiv.org/pdf/1605.08695v2.pdf)
+* [《Awesome Deep learning papers and other resources》](https://github.com/endymecy/awesome-deeplearning-resources)
 
-介绍: 大规模机器学习系统：TensorFlow,本论文已经投稿到OSDI 2016
+介绍:深度学习论文与资源大列表(论文、预训练模型、课程、图书、软件、应用、相关列表等)
 
-* [《Globally Normalized Transition-Based Neural Networks》](https://arxiv.org/abs/1603.06042)
+* [《Datasets for Natural Language Processing》](https://github.com/karthikncode/nlp-datasets)
 
-介绍: 这篇论文提出的模型改进，可用于任何包含 transition system 的 feed-forward NN 上。他们将这个模型用于了几大 NLP sequence tagging 的任务上：POS speech tagging，dependency parsing 和 sentence compression，结果发现有时候甚至比 RNN 还要好。
+介绍:自然语言处理NLP数据集列表
 
-* [《The best explanation of Convolutional Neural Networks on the Internet!》](https://medium.com/technologymadeeasy/the-best-explanation-of-convolutional-neural-networks-on-the-internet-fbb8b1ad5df8)
+* [《Machine Learning for Software Engineers》](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
-介绍: CNNs详解,同时推荐[A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+介绍:软件工程师的机器学习
 
-* [《Python Data Visualization》](https://github.com/econchick/new-coder)
+* [《Quantitative Finance resources》](https://github.com/wilsonfreitas/awesome-quant)
 
-介绍: Python数据可视化教程
+介绍:量化金融(Quants)资源列表
 
-* [《EMNLP 2016 accepted papers》](http://www.emnlp2016.net/accepted-papers.html)
+* [《What Computers Still Can't Do.》](https://books.google.com.hk/books?id=7vS2y-mQmpAC)
 
-介绍: 2016年EMNLP会议接收的论文下载
+介绍:《计算机仍然不能做什么——人工理性批判》[MIT版导言](http://shc2000.sjtu.edu.cn/20120630/MIT.htm)
 
-* [《Summaries and notes on Deep Learning research papers》](https://github.com/dennybritz/deeplearning-papernotes)
+* [《In-Datacenter Performance Analysis of a Tensor Processing Unit》](https://drive.google.com/file/d/0Bx4hafXDDq2EMzRNcy1vSUxtcEk/view)
 
-介绍: 深度学习领域论文笔记与总结
+介绍:谷歌发论文详解TPU
 
-* [《Deep Language Modeling for Question Answering using Keras》](http://benjaminbolte.com/blog/2016/keras-language-modeling.html)
+* [《Proceedings of the Eleventh International Conference on Web and Social Medias》](http://www.aaai.org/Library/ICWSM/icwsm17contents.php)
 
-介绍: Keras是一个极简和高度模块化的神经网络库，这是使用Keras构建深度语言模型使用问答系统[Github](https://github.com/codekansas/keras-language-modeling),此外推荐[Keras resource](https://github.com/fchollet/keras-resources)
+介绍:2017年ICWSM会议论文合集，业内对它的评价是:"算是最顶级也是最早的有关社会计算的会议"。里面的论文大部分是研究社交网络的，例如twitter，emoji，游戏。对于社交媒体来说内容还是挺前沿的。如果你是做社会计算的还是可以看看。毕竟是行业内数一数二的会议。对了，只要是你知道名字的有名社交媒体都有投稿.[陌陌不算]
 
-* [《An Actor-Critic Algorithm for Sequence Prediction》](http://arxiv.org/abs/1607.07086)
+* [《NTUEE ML 2017》](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17.html)
 
-介绍: Yoshua Bengio 最新论文：用于序列预测的actor-critic算法
+介绍:台大李宏毅中文机器学习课程(2017)
 
-* [《Ranking Relevance in Yahoo Search》](http://www.kdd.org/kdd2016/papers/files/adf0361-yinA.pdf)
+* [《TensorFlow Dev Summit 2017》](https://www.youtube.com/playlist?list=PLwv-rHS37fS9sj62f4HAbqSrC1EiPsNZx)
 
-介绍: KDD2016工业界最佳论文,另外学术界：最佳论文[FRAUDAR: Bounding Graph Fraud in the Face of Camouflage](http://www.kdd.org/kdd2016/papers/files/rfp0110-hooiA.pdf)；最佳学生论文：[TRIÈST: Counting Local and Global Triangles in Fully-Dynamic Streams with Fixed Memory Size](http://www.kdd.org/kdd2016/papers/files/rfp0465-de-stefaniA.pdf)；
+介绍:2017 TensorFlow 开发者峰会(中文字幕) 
 
-* [《Top Deep Learning Projects》](https://github.com/aymericdamien/TopDeepLearning)
+* [《Convolutional Neural Networks for Visual Recognition (CS231n Spring 2017)》](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
-介绍: Github top deep learning project
+介绍:斯坦福2017季CS231n深度视觉识别课程视频
+
+* [《Deep Learning for Music (DL4M)》](https://github.com/ybayle/awesome-deep-learning-music)
+
+介绍:音乐深度学习相关资料大列表(音乐生成/语音分离/说话人识别等)
+
+* [《Deep Learning for Music (DL4M)》](https://people.cs.umass.edu/~arvind/arvind_thesis.pdf)
+
+介绍:博士论文：深度神经网络知识表示与推理,附[视频](https://www.youtube.com/watch?v=lc68_d_DnYs)
+
+* [《Recent Deep Learning papers in NLU and RL》](https://github.com/madrugado/deep-learning-nlp-rl-papers)
+
+介绍:近期自然语言理解(NLU)/增强学习(RL)文献选集
+
+* [《Theories of Deep Learning (STATS 385)》](https://stats385.github.io/)
+
+介绍:2017年斯坦福课程：深度学习理论
+
+* [Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in vitro](https://github.com/layumi/Person-reID_GAN)
+
+介绍: **ICCV2017 spotlight** 用GAN生成样本，加入监督学习(如ResNet) 提升小样本数据集效果。
+
+* [A Discriminatively Learned CNN Embedding for Person Re-identification ](https://github.com/layumi/2016_person_re-ID)
+
+介绍: **TOMM2017** 用 鉴别loss(Verification)+识别loss(Identification) 来提升深度学习框架（CaffeNet VGGNet ResNet）下 行人重识别检索效果   Caffe版本(https://github.com/D-X-Y/caffe-reid)
+
+* [Pedestrian Alignment Network for Large-scale Person Re-identification ](https://github.com/layumi/Pedestrian_Alignment)
+
+介绍： 行人对齐和行人重识别一起做。统一框架。
+
+* [《On the Information Bottleneck Theory of Deep Learning》](https://openreview.net/forum?id=ry_WPG-A-&noteId=ry_WPG-A-)
+
+介绍:论深度学习信息瓶颈理论
+
+* [《CMU CS 11-747, Fall 2017 Neural Networks for NLP》](http://phontron.com/class/nn4nlp2017/)
+
+介绍:CMU神经网络自然语言处理课程
+
+* [《Awesome Chainer》](https://github.com/chainer-community/awesome-chainer)
+
+介绍:Chainer是一个深度学习框架，提供了很多解决方案，例如动态计算图。它是基于Python编写的
+
+* [《StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation》](https://arxiv.org/abs/1711.09020)
+
+介绍:用StarGAN实现人脸部件、性别、年龄、表情等变化。实现[代码](https://github.com/yunjey/StarGAN). YouTube上面有简单的[视频](https://www.youtube.com/watch?v=EYjdLppmERE)介绍。@layumi
+
+* [《Feature Visualization》](https://distill.pub/2017/feature-visualization/)
+
+介绍:利用神经网络增加对图像理解，对特征进行可视化。同时推荐[《Visualizing and Understanding Convolutional Networks》](https://cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)。本文是Matthew D.Zeiler 和Rob Fergus于（纽约大学）13年撰写的论文，主要通过Deconvnet（反卷积）来可视化卷积网络，来理解卷积网络，并调整卷积网络；本文通过Deconvnet技术，可视化Alex-net，并指出了Alex-net的一些不足，最后修改网络结构，使得分类结果提升。[中文摘要翻译](http://blog.csdn.net/whiteinblue/article/details/43312059) @layumi
+
+* [《Random Erasing Data Augmentation》](https://arxiv.org/abs/1708.04896)2
+
+介绍:本文提出了一种叫做“Random Erasing”的数据增强方法，通过给图像数据加入随机的噪声进行数据增强，防止过拟合，可以移植到其他的CV任务中。[代码实现](https://github.com/zhunzhong07/Random-Erasing) @layumi
+
+* [《SVDNet for Pedestrian Retrieval》](https://arxiv.org/abs/1703.05693)
+
+介绍: SVDNet在行人重识别的应用[翻译](https://zhuanlan.zhihu.com/p/29326061)。[代码](https://github.com/syfafterzy/SVDNet-for-Pedestrian-Retrieval) @layumi
+
+* [《NIPS 2017 Notes》](https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf)
+
+介绍: 2017年神经信息处理系统大会笔记
+
+* [《Hung-yi Lee Home page》](http://speech.ee.ntu.edu.tw/~tlkagk/)
+
+介绍: 推荐台湾大学的李宏毅教授的主页，他的[机器学习课程](http://speech.ee.ntu.edu.tw/~tlkagk/courses.html)很适合初学者。不会枯燥无味
+
+* [《Kloud Strife DL papers of the year》](https://kloudstrifeblog.wordpress.com/2017/12/15/my-papers-of-the-year/)
+
+介绍: Kloud Strife总结了2017年阅读的论文，对抗网络学习、SGD（随机梯度下降）、模型设计与生成、强化学习
+
+* [《Oxford Deep NLP 2017 course》](https://github.com/oxford-cs-deepnlp-2017/lectures)
+
+介绍: 牛津大学2017年深度自然语言处理课程视频与slides
+
+* [《Speech and Language Processing, 3rd Edition》](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf)
+
+介绍: 斯坦福大学免费电子书《语音和语言处理》第3版，自然语言处理概论，有关计算语言学和语音识别的知识。
+
+* [《A Brief Introduction to Machine Learning for Engineers》](https://arxiv.org/pdf/1709.02840.pdf)
+
+介绍: 由伦敦国王学院编写的<工程师机器学习简明教程>
+
+* [《An Introduction to Machine Learning with R》](https://lgatto.github.io/IntroMachineLearningWithR/index.html)
+
+介绍: 免费书：R语言机器学习导论
+
+* [《An Introduction to Deep Learning for Tabular Data》](http://www.fast.ai/2018/04/29/categorical-embeddings/)
+
+介绍: 表格数据深度学习入门

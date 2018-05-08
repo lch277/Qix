@@ -126,7 +126,7 @@
 
 * [《Edsger Wybe Dijkstra HomePage》](http://www.cs.utexas.edu/~EWD/)
 
-介绍:艾兹赫尔·韦伯·戴克斯特拉是荷兰第一位以程式为专业的科学家,以发现了图论中的最短路径算法（[Dijkstra算法](https://www.ssucet.org/old/pluginfile.php/2121/mod_resource/content/1/21-dijkstra.pdf)）而闻名于世，1972年因为ALGOL第二代编程语言而获得图灵奖。GOTO有害论“[Go To StatementConsidered Harmful](http://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)”(EWD215)也是被广为传颂的经典之作.推荐[Using Dijkstra's algorithm to draw maps](https://github.com/ibaaj/dijkstra-cartography)
+介绍:艾兹赫尔·韦伯·戴克斯特拉是荷兰第一位以程式为专业的科学家,以发现了图论中的最短路径算法（[Dijkstra算法](https://www.ssucet.org/old/pluginfile.php/2121/mod_resource/content/1/21-dijkstra.pdf)）而闻名于世，1972年因为ALGOL第二代编程语言而获得图灵奖。GOTO有害论“[Go To StatementConsidered Harmful](http://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf)”(EWD215)也是被广为传颂的经典之作.推荐[Using Dijkstra's algorithm to draw maps](https://github.com/ibaaj/dijkstra-cartography). 如果是学习，可能论文会比较难。推荐阅读[理解Dijkstra算法](https://aos.github.io/2018/02/24/understanding-dijkstras-algorithm/)
 
 * [《John Backus HomePage》](http://www.columbia.edu/cu/computinghistory/backus.html)
 
@@ -159,3 +159,63 @@
 * [《All algorithms implemented in Python (for education)》](https://github.com/TheAlgorithms/Python)
 
 介绍：常用算法实现python版
+
+* [《A collection of links for streaming algorithms and data structures》](https://gist.github.com/debasishg/8172796)
+
+介绍：流算法&数据结构资源列表
+
+* [《Algorithms introduce》](https://www.khanacademy.org/computing/computer-science/algorithms)
+
+介绍：由算法导论作者Thomas Cormen的专栏
+
+* [《Datastructures for external memory》](http://blog.omega-prime.co.uk/?p=197)
+
+介绍：高级数据结构：外存储算法。很详细
+
+* [《An overview of gradient descent optimization algorithms》](http://sebastianruder.com/optimizing-gradient-descent/)
+
+介绍：梯度下降优化算法的好材料，不仅讲解了Adagrad、Adadelta、RMSprop、Adam等基本算法，还有并行和分布式SGD，Shuffling and Curriculum Learning、Batch normalization、Early Stopping、Gradient noise等。
+
+* [《[ebook]Foundations of Data Science》](https://www.cs.cornell.edu/jeh/book2016June9.pdf)
+
+介绍：《数据科学基础》作者：ACM Fellow Avrim Blum, 图灵奖得主John Hopcroft，以及微软首席科学家Ravindran Kannan
+
+* [《MIT:6.851: Advanced Data Structures》](http://courses.csail.mit.edu/6.851/)
+
+介绍：麻省理工学院研究生课程 6.851《高级数据结构》。Erik Demaine教授主讲。
+
+* [《Jeff Erickson's Algorithms, Etc. Web + 1,250 pages in one PDF file》](http://jeffe.cs.illinois.edu/teaching/algorithms/)
+
+介绍：伊利诺伊大学厄巴纳-香槟分校计算机科学系的教授及前副主任Jeff Erickson 有关算法的资料
+
+* [《350+ Data structures programming interview questions》](https://techiedelight.quora.com/350%2B-Data-structures-programming-interview-questions)
+
+介绍： 350+ 数据结构编程面试问题。
+
+* [《Illustrated Algorithms》](https://github.com/skidding/illustrated-algorithms)
+
+介绍：算法的可视化，把一个个的算法变成动画
+
+* [《Mathematics for Computer Science》](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+
+介绍：由Google和麻省理工大学合著的《计算机科学的数学》。1000多页PDF
+
+* [《algorithms-primer 》](https://github.com/stacygohyunsi/algorithms-primer)
+
+介绍：算法与数据结构学习资源合集,能帮助你更简单的理解一些重要的数据结构和算法
+
+* [《常见算法实现》](https://github.com/qiwsir/algorithm)
+
+介绍：常见算法实现
+
+* [《International Conference on Algorithmic Learning Theory》](http://proceedings.mlr.press/v76/)
+
+介绍：算法学习理论国际会议
+
+* [《Deep learning Algorithms tutorial》](https://github.com/KeKe-Li/tutorialm)
+
+介绍：常见的机器学习算法
+
+* [《Matters Computational Ideas, Algorithms, Source Code》](https://jjj.de/fxt/fxtbook.pdf)
+
+介绍：计算思想和算法的教科书

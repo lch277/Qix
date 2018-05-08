@@ -1,7 +1,6 @@
-##一些非常棒的资源
----
-**这是一个自己的资料集,主要是做一个资料整理.方便自己查阅**
----
+## 一些非常棒的资源
+
+#### 这是一个自己的资料集,主要是做一个资料整理.方便自己查阅
 
 * [《Hands-on Labs for Security Education》](http://www.cis.syr.edu/~wedu/seed/ )
 
@@ -59,7 +58,7 @@
 
 介绍:命令行的艺术,学习Linux命令的好资源,此外文中提到的[explain shell](http://explainshell.com/)很赞
 
-* [《C++ 资源》](http://codecloud.net/c-plus-plus-resource-2983.html)
+* [《C++ 资源》](https://github.com/jobbole/awesome-cpp-cn)
 
 介绍:涉及到了标准库、Web应用框架、人工智能、数据库、图片处理、机器学习、日志、代码分析等，C++程序员学习必备！
 
@@ -355,4 +354,59 @@
 
 介绍:工程师博客列表。[Awesome dev blogs](https://github.com/abdelhai/awesome-dev-blogs)
 
+* [《NoSQL Databases: a Survey and Decision Guidance》](https://medium.baqend.com/nosql-databases-a-survey-and-decision-guidance-ea7823a822d#.kcje9fcho)
+
+介绍:NoSQL数据库：调查和决策指导。非常详细的NoSQL数据库大检阅，文章很长，干货多多
+
+* [《Redis内部数据结构详解》](http://zhangtielei.com/posts/server.html)
+
+介绍:skiplist,quicklist,ziplist,robj,sds,dict等数据结构详解，可以参考[Redis 设计与实现](http://redisbook.com/)
+
+* [《Research at Facebook》](https://research.facebook.com/publications/)
+
+介绍:Facebook的研究博客，有很多公开的优秀论文，大部分都是工业界实践之后的产物,[google research](http://research.google.com/pubs/papers.html)更丰富。[Akamai Publications](https://www.akamai.com/us/en/our-thinking/technical-publications.jsp)
+
+* [《What Every Programmer Should Know About Memory》](https://www.akkadia.org/drepper/cpumemory.pdf)
+
+介绍:内存结构与理论深入分析
+
+* [《The Flame Graph》](http://queue.acm.org/detail.cfm?id=2927301)
+
+介绍:🔥火焰图分析系统性能瓶颈
+
+* [《List of single-file C/C++ libraries》](https://github.com/nothings/single_file_libs)
+
+介绍:单个文件C/C++库指的是那些能移植到多个平台、32位或者64位、从C或者C++中调用、依赖最小的开源库，本文分门别类作了总结。
+
+* [《The System Design Primer》](https://github.com/donnemartin/system-design-primer)
+
+介绍:大规模系统设计指南.从入门到深入.系统架构师必读
+
+* [《Google Interview University》](https://github.com/jwasham/coding-interview-university)
+
+介绍:一套完整的学习手册帮助自己准备 Google 的面试
+
+* [《Videos from all editions of PolyConf》](https://www.youtube.com/user/polyconf)
+
+介绍:所有PolyConf版本的视频。PolyConf是一个为期三天、多学科的高级技术会议，面向有兴趣的多语言软件开发方案的程序员。
+
+* [《On Designing and Deploying Internet-Scale Services》](https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/)
+
+介绍:这是一篇关于如何设计和运营（部署）一个大规模互联网系统的总结性质的论文，主要是自动化、监控、容错、让一切变得简单。
+
+* [《SRE conf2016 Conference Program》](https://www.usenix.org/conference/srecon16/program)
+
+介绍:SRE conf2016会议视频与PPT，主要是集中在工程管理方面。例如监控的重要性，面对混乱如何乱而不是方寸。和Google出版的sre可以对比阅读，比较适合基数管理层
+
+* [《Ask HN: What was the best CS paper you read in 2017?》](https://news.ycombinator.com/item?id=16035402)
+
+介绍:HN上面关于2017年读过最好的计算机科学论文的总结问答，问答中揽括了一些理论并且有促进意义的论文。譬如索引的学习，系统设计、软件工程等
+
+* [《CMU15-721:Advanced Database Systems》](http://15721.courses.cs.cmu.edu/spring2017/schedule.html)
+
+介绍:卡内基梅隆大学高级数据库系统课程，拥有课件和视频。课程内容有，并发控制(MVCC、OCC)、LTOP、优化器、数据压缩、执行和调度、并行join
+
+* [《The Philosophy of Computer Science》](https://plato.stanford.edu/entries/computer-science/)
+
+介绍:计算机科学的哲学
 
